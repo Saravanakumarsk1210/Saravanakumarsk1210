@@ -1,3 +1,4 @@
+![logo](https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(4).png)
 <h1 align="center">Hey buddy ! I am Saravana Kumar</h1>
 <h3 align="center">A passionate Future Data Scientist !!</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
