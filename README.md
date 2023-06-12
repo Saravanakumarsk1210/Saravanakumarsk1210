@@ -1,5 +1,5 @@
 ![logo](https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(4).png)
-<h1 align="center">Hey buddy ! I am Saravanan...</h1>
+<h1 align="center">Hey buddy ! I am Saravana Kumar</h1>
 <h3 align="center">A passionate Future Data Scientist !!</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif">
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently Learning **Integrated Data science**
 
-- 👨‍💻 All of my projects are available at [Saravanakumarsk1210](Saravanakumarsk1210)
+- 👨‍💻 All of my projects are available at [Github](Saravanakumarsk1210)
 
 - 💬 Expession as **Authentic self !**
 
 - 📩 How to reach me **saravanakumarsk1210@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/saravana-kumar-990884243](linkedin.com/in/saravana-kumar-990884243)
+- 📄 Know about my experiences [linkedin](linkedin.com/in/saravana-kumar-990884243)
 
 - 🍏 **Beginner's mindset & curiosity**
 
@@ -28,6 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanakumarsk1210" alt="saravanakumarsk1210" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanakumarsk1210&show_icons=true&locale=en&layout=compact" alt="saravanakumarsk1210" /></p>
 
