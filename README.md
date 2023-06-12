@@ -13,7 +13,7 @@
 
 - 💬 Expession as **Authentic self !**
 
-- 📩 How to reach me **saravanakumarsk1210@gmail.com**
+<!--- 📩 How to reach me **saravanakumarsk1210@gmail.com**-->
 
 - 📄 Know about my experiences [linkedin](linkedin.com/in/saravana-kumar-990884243)
 
