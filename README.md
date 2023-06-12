@@ -19,6 +19,8 @@
 
 - 🍏 **Beginner's mindset & curiosity**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/saravana-kumar-990884243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saravana-kumar-990884243" height="30" width="40" /></a>
@@ -26,10 +28,36 @@
 <a href="https://www.hackerearth.com/@saravananmsk1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saravananmsk1210" height="30" width="40" /></a>
 </p>
 
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p> 
+<img height=52 src="https://cdn.worldvectorlogo.com/logos/c-1.svg"/> &nbsp;
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<!-- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
+<img height=50 src="https://cdn2.iconfinder.com/data/icons/coding-and-development-outline/60/SQL-Database-programming-developer-software-query-language-1024.png"/> &nbsp;
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp;
+<!-- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />-->
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> &nbsp;
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p>
+<br />
+  
+</p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanakumarsk1210" alt="saravanakumarsk1210" /></a> </p>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanakumarsk1210&show_icons=true&locale=en&layout=compact" alt="saravanakumarsk1210" /></p>
 
