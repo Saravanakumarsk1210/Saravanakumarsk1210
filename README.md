@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanakumarsk1210&label=Profile%20views&color=0e75b6&style=flat" alt="saravanakumarsk1210" /> </p>
 
-- 🔭 I’m a **III yr Student**
+- 🔭 I’m a **IV yr Student**
 
 - 🌱 I’m currently Learning **Integrated Data science**
 
