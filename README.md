@@ -1,66 +1,138 @@
 ![logo](https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/Gray%20And%20Black%20%20Simple%20Personal%20LinkedIn%20Banner%20(4).png)
-<h1 align="center">Hey buddy ! I am Saravana Kumar</h1>
-<h3 align="center">A passionate Future Data Scientist !!</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanakumarsk1210&label=Profile%20views&color=0e75b6&style=flat" alt="saravanakumarsk1210" /> </p>
+# Hey there! 👋 I'm Saravana Kumar  
 
-- 🔭 I’m a **IV yr Student**
+### 🚀 Future Data Scientist | Machine Learning Enthusiast | Innovator  
 
-- 🌱 I’m currently Learning **Integrated Data science**
+<img align="right" alt="Coding" width="400" src="https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif">  
 
-- 👨‍💻 All of my projects are available at [Github](Saravanakumarsk1210)
+![Profile Views](https://komarev.com/ghpvc/?username=saravanakumarsk1210&label=Profile%20views&color=0e75b6&style=flat)  
 
-- 💬 Expession as **Authentic self !**
+---
 
-<!--- 📩 How to reach me **saravanakumarsk1210@gmail.com**-->
+## 💡 About Me  
 
-- 📄 Know about my experiences [linkedin](linkedin.com/in/saravana-kumar-990884243)
+### 🎓 Academic Journey & Proficiencies  
+- 🎓 **5-Year Integrated MSc Data Science** student  
+- 🔍 Passionate about **Machine Learning, Predictive Analytics, and Data Visualization**  
+- 💡 Researcher in **AI for Healthcare, Agriculture, and Forecasting**  
+- 📊 Experienced with **Apache Kafka, Apache NiFi, Power BI, Tableau, Weka, and Docker**  
 
-- 🍏 **Beginner's mindset & curiosity**
+---
+
+## 📈 Skills & Mindset  
+- 🧠 **Growth mindset & curiosity-driven learning**  
+- 🛠️ Familiar IDEs: **Jupyter Notebook, Google Colab, Visual Studio Code, NetBeans, Code::Blocks**  
+- 🎨 **Transforming ideas into visually stunning insights!**  
+
+---
+
+## 💻 What I Work On  
+🔹 **Time Series Forecasting & ML Models** 📈  
+🔹 **Deep Learning & Statistical Models** 🧠  
+🔹 **Recommendation Systems with Sentiment Analysis** 🎮  
+🔹 **Database Management & Web Applications** 🌍  
+🔹 **Conversational AI for Smart Agriculture** 🌾  
+
+🎤 **Workshop Attendee** | 🎨 **Creative Designer** | ✍️ **Tech Blogger** | 🏆 **Hackathon Enthusiast**  
+
+---
+
+## 🔍📚 Research & Publications  
+
+### 📚 Brain Tumor Analysis Using Deep Learning  
+🔹 **Published in:** IET  
+🔹 **Focus:** Leveraging deep learning for precise tumor segmentation & classification.  
+👉 [Read More](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch16)  
 
 
 
-<h3 align="left">Connect with me:</h3>
+### 📚 Student Engagement Analysis Using Multiple Regression (Under Review)  
+🔹 **Under Review in:** JEET  
+🔹 **Focus:** Analyzing engagement factors affecting academic performance.  
+👉 [Read More](https://journaleet.in/articles/evaluating-elements-influencing-student-engagement-an-analysis-utilizing-multiple-regression)  
+
+### 📚 Time-Series Forecasting for Pharmaceutical Sales (Under Review)  
+🔹 **Under Review in:** IGI Global  
+🔹 **Focus:** Predictive analytics for pharmaceutical industry trends.  
+👉 [Read More](https://www.igi-global.com/gateway/chapter/351611)  
+
+### 📚 Deep Learning Advancements in Malaria Diagnosis  
+🔹 **Published in:** IGI Global – Artificial Intelligence Transformations for Healthcare  
+🔹 **Focus:** PyTorch-based CNN ensemble achieving 96.5% accuracy in malaria diagnosis.  
+👉 [Read More](https://www.igi-global.com/gateway/chapter/351607)  
+
+### 📚 AI-Driven Decision Support for Crop Selection (Under Review)  
+🔹 **Under Review in:** EasyChair  
+🔹 **Focus:** AI-driven recommendations for optimized crop selection.  
+
+---
+
+## 🌱 Internships & Experience  
+
+### 📍 **AuroiTech**  
+🔹 **Role:** Process Automation Intern  
+🔹 **Focus:** Optimized ETL pipelines, reducing data loading time by 15 minutes using **PySpark, Kafka, and PostgreSQL**.  
+
+### 📍 **Madurai Tech Community** – *GIS Mapping for Urban Planning*  
+🔹 **Role:** Data Acquisition Intern  
+🔹 **Focus:** Assisted in GIS mapping, data collection, and visualization.  
+
+### 📍 **VTM Limited** – *OCR-based Textile Industry Automation*  
+🔹 **Role:** Process Automation Intern  
+🔹 **Focus:** Implemented OCR-based automation to optimize workflows.  
+
+### 📍 **CodSoft** – *Machine Learning Hands-on*  
+🔹 **Role:** ML Trainee  
+🔹 **Focus:** Built **spam detection and churn prediction** models.  
+
+### 📍 **Accenture** – *Data Visualization & Dashboard Development*  
+🔹 **Role:** Data Analyst Intern  
+🔹 **Focus:** Designed interactive dashboards for data-driven decision-making.  
+
+💡 *"Harnessing the power of data to solve real-world problems!"* 🚀  
+
+---
+
+## 📄 Languages & Tools  
+
+### 🔢 **Languages:**  
+- Python 🐍  
+- SQL 🛢️  
+- C++ 💻  
+- Java ☕  
+- JavaScript 🌐  
+
+### ⚙️ **Tools & Technologies:**  
+- Apache Kafka  
+- PySpark  
+- Google BigQuery  
+- Docker  
+- Power BI  
+- Tableau  
+
+---
+
+## 💌 Let's Connect!  
+
+<h3 align="left">Find me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/saravana-kumar-990884243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saravana-kumar-990884243" height="30" width="40" /></a>
-<a href="https://instagram.com/s_m_i_l_y_s_t_a_r_k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_m_i_l_y_s_t_a_r_k_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@saravananmsk1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saravananmsk1210" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p> 
-<img height=52 src="https://cdn.worldvectorlogo.com/logos/c-1.svg"/> &nbsp;
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<!-- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
-<img height=50 src="https://cdn2.iconfinder.com/data/icons/coding-and-development-outline/60/SQL-Database-programming-developer-software-query-language-1024.png"/> &nbsp;
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp;
-<!-- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />-->
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> &nbsp;
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p>
-<br />
+  <a href="https://linkedin.com/in/saravana-kumar-990884243" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   
+  <a href="https://www.hackerearth.com/@saravananmsk1210" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+  </a>
 </p>
 
+💡 *"Transforming data into actionable insights!"* 🚀  
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saravanakumarsk1210" alt="saravanakumarsk1210" /></a> </p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanakumarsk1210&show_icons=true&locale=en&layout=compact" alt="saravanakumarsk1210" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanakumarsk1210&show_icons=true&locale=en" alt="saravanakumarsk1210" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saravanakumarsk1210&" alt="saravanakumarsk1210" /></p>
+## 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanakumarsk1210&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saravanakumarsk1210&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanakumarsk1210&" alt="GitHub Streak" />
+</p>
