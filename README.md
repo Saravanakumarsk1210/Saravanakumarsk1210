@@ -11,7 +11,6 @@
 ---
 
 ## 💡 About Me  
-
 ### 🎓 Academic Journey & Proficiencies  
 - 🎓 **5-Year Integrated MSc Data Science** student  
 - 🔍 Passionate about **Machine Learning, Predictive Analytics, and Data Visualization**  
