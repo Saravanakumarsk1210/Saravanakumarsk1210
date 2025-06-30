@@ -41,15 +41,6 @@
 
 ---
 
-## 🔍📚 Research & Publications  
-
-### 📚 Brain Tumor Analysis Using Deep Learning  
-🔹 **Published in:** IET  
-🔹 **Focus:** Leveraging deep learning for precise tumor segmentation & classification.  
-👉 [Read More](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch16)  
-
----
-
 ## 🌱 Internships & Experience  
 
 ### 📍 **AuroiTech**  
