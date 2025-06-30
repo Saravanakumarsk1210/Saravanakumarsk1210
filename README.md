@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Saravanakumarsk1210/Saravanakumarsk1210/blob/main/github%20profile%20pic.gif">  
 
-![Profile Views]([https://komarev.com/ghpvc/?username=saravanakumarsk1310&label=Profile%20views&color=0e75b6&style=flat](https://saravanakumar1310-portfolio.netlify.app/))  
+![Profile Views](https://komarev.com/ghpvc/?username=saravanakumarsk1310&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <a href="https://saravanakumar1210.netlify.app/" target="_blank">
