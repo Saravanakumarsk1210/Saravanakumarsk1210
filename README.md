@@ -48,27 +48,6 @@
 🔹 **Focus:** Leveraging deep learning for precise tumor segmentation & classification.  
 👉 [Read More](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch16)  
 
-
-
-### 📚 Student Engagement Analysis Using Multiple Regression (Under Review)  
-🔹 **Under Review in:** JEET  
-🔹 **Focus:** Analyzing engagement factors affecting academic performance.  
-👉 [Read More](https://journaleet.in/articles/evaluating-elements-influencing-student-engagement-an-analysis-utilizing-multiple-regression)  
-
-### 📚 Time-Series Forecasting for Pharmaceutical Sales (Under Review)  
-🔹 **Under Review in:** IGI Global  
-🔹 **Focus:** Predictive analytics for pharmaceutical industry trends.  
-👉 [Read More](https://www.igi-global.com/gateway/chapter/351611)  
-
-### 📚 Deep Learning Advancements in Malaria Diagnosis  
-🔹 **Published in:** IGI Global – Artificial Intelligence Transformations for Healthcare  
-🔹 **Focus:** PyTorch-based CNN ensemble achieving 96.5% accuracy in malaria diagnosis.  
-👉 [Read More](https://www.igi-global.com/gateway/chapter/351607)  
-
-### 📚 AI-Driven Decision Support for Crop Selection (Under Review)  
-🔹 **Under Review in:** EasyChair  
-🔹 **Focus:** AI-driven recommendations for optimized crop selection.  
-
 ---
 
 ## 🌱 Internships & Experience  
