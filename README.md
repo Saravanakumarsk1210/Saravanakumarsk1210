@@ -9,9 +9,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saravanakumarsk1310&label=Profile%20views&color=0e75b6&style=flat)
 
 
-<a href="https://saravanakumar1310-portfolio.netlify.app/" target="_blank">
+<a href="https://saravananova.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=web" alt="Portfolio Badge"/>
 </a>
+
 
 
 ## 💡 About Me  
